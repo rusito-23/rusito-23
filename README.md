@@ -8,9 +8,9 @@
   <samp>
     :school: Computer Science Student in <a href="https://www.famaf.unc.edu.ar" >FAMAF - UNC - Córdoba, Argentina</a><br>
     :construction_worker: Currently working in <a href="https://incluit.com">IncluIT</a> with macOS and iOS :apple:<br>
-    :nerd_face: I like to work with:<br><br>
+    I :heart::<br><br>
   </samp>
-  <a href="#" title="Python"><img alt="python" height="64px" src="https://cdn.svgporn.com/logos/python.svg"></a>
+  <a href="#" title="Python"><img alt="python" height="46px" src="https://cdn.svgporn.com/logos/python.svg"></a>
   <a href="#" title="Pytorch"><img alt="pytorch" height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg"></a>
   <a href="#" title="Opencv"><img alt="opencv" height="64px" src="https://cdn.svgporn.com/logos/opencv.svg"></a>
   <a href="#" title="Jupyter"><img alt="jupyter" height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg"></a>
