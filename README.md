@@ -7,13 +7,13 @@
   <br>
   <samp>
     :school: Computer Science Student in <a href="https://www.famaf.unc.edu.ar" >FAMAF - UNC - Córdoba, Argentina</a><br>
-    :construction_worker: Currently working in Taller for the Venmo project as an iOS Developer :apple:<br>
+    :construction_worker: Currently working in <a href="https://www.tallertechnologies.com"><img alt="Taller Technologies" src="assets/taller_logo.svg" height=40 /></a> for the <a href="https://www.venmo.com"><img alt="Venmo" src="assets/venmo_logo.svg" height=40 /></a> project as an iOS Developer :apple:<br>
     I :heart::<br><br>
   </samp>
   <a href="#" title="Python"><img alt="python" height="46px" src="https://cdn.svgporn.com/logos/python.svg"></a>
   <a href="#" title="Pytorch"><img alt="pytorch" height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg"></a>
   <a href="#" title="Opencv"><img alt="opencv" height="64px" src="https://cdn.svgporn.com/logos/opencv.svg"></a>
-  <a href="#" title="Jupyter"><img alt="jupyter" height="64px" src="https:d//cdn.svgporn.com/logos/jupyter.svg"></a>
+  <a href="#" title="Jupyter"><img alt="jupyter" height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg"></a>
   <a href="#" title="Flask"><img alt="flask" height="64px" src="https://cdn.svgporn.com/logos/flask.svg"></a><br>
   <a href="#" title="iOS"><img alt="ios" height="20px" src="https://cdn.svgporn.com/logos/ios.svg"></a>
   <a href="#" title="Swift"><img alt="swift" height="46px" src="https://cdn.svgporn.com/logos/swift.svg"></a>
