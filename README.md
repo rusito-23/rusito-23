@@ -7,7 +7,7 @@
   <br>
   <samp>
     :school: Computer Science Student in <a href="https://www.famaf.unc.edu.ar" >FAMAF - UNC - Córdoba, Argentina</a><br>
-    :construction_worker: Currently working in <a href="https://www.tallertechnologies.com"><img alt="Taller Technologies" src="assets/taller_logo.svg" height=40 /></a> for the <a href="https://www.venmo.com"><img alt="Venmo" src="assets/venmo_logo.svg" height=40 /></a> project as an iOS Developer :apple:<br>
+    :construction_worker: Currently working in <a href="https://www.tallertechnologies.com"><img alt="Taller Technologies" src="assets/taller_logo.svg" height=40 /></a> for the <a href="https://www.venmo.com"><img alt="Venmo" src="assets/venmo_logo.png" height=23 /></a> project as an iOS Developer :apple:<br>
     I :heart::<br><br>
   </samp>
   <a href="#" title="Python"><img alt="python" height="46px" src="https://cdn.svgporn.com/logos/python.svg"></a>
