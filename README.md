@@ -7,13 +7,11 @@
   <a href="https://rusito-23.github.io/curriculum/Igor_Andruskiewitsch.pdf" ><img src="https://img.shields.io/badge/CV-Curriculum-green?logo=LaTex&style=flat-square"/></a>
   <a href="https://soundcloud.com/igor-andruskiewitsch" ><img src="https://img.shields.io/badge/SoundCloud-igor--andruskiewitsch-important?style=flat-square&logo=soundcloud&logoColor=white"/></a>
   <a href="https://github.com/rusito-23"><img src="https://visitor-badge.laobi.icu/badge?page_id=rusito-23.rusito-23" /></a>
-  <br>
-  <br>
   <samp>
-    <h2 align="center">:school: Computer Science Student @ <a href="https://www.famaf.unc.edu.ar" >Famaf - UNC</a><br></h2>
-    <h2 align="center">:construction_worker: :apple: iOS Developer @
-    <a href="https://distillery.com"><img alt="Distillery" src="assets/distillery_logo.png" height=40 /></a> -
-    <a href="https://www.ebay.com"><img alt="eBay" src="assets/ebay_logo.png" height=22 /></a>
+    <h3 align="center">:school: Computer Science Student @ <a href="https://www.famaf.unc.edu.ar" >Famaf - UNC</a><br></h2>
+    <h3 align="center">:construction_worker: :apple: iOS Developer @
+    <a href="https://distillery.com"><img alt="Distillery" src="assets/distillery_logo.png" height=20 /></a> -
+    <a href="https://www.ebay.com"><img alt="eBay" src="assets/ebay_logo.png" height=20 /></a>
   <br>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
