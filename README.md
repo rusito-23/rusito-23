@@ -24,16 +24,18 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=rusito-23.rusito-23" />
 </a>
 
+---
+
 <!-- Current Position and Education Header -->
 <p align="center">
    <img alt="iOS Developer" src="assets/ios_developer.png" height=30 />
-   <h1><span style="font-weight:normal">|</span></h1>
+   <p>|</p>
    <a href="https://distillery.com"><img alt="Distillery" src="assets/distillery_logo.png" height=30 /></a>
    <a href="https://www.ebay.com"><img alt="eBay" src="assets/ebay_logo.png" height=30 /></a>
    <a href="https://www.famaf.unc.edu.ar"><img alt="Famaf, UNC" src="assets/famaf_unc_logo.png" height=30 /></a>
 </p>
 
-<br>
+---
 
 <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
