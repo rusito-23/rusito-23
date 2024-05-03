@@ -29,11 +29,9 @@
 <!-- Current Position and Education Header -->
 <p align="center">
     <img alt="iOS Developer" src="assets/ios_developer.png" height=30 />
-    <sup><sup>●</sup></sup> 
-    <a href="https://distillery.com"><img alt="Distillery" src="assets/distillery_logo.png" height=28 /></a>
-    <sup><sup>●</sup></sup> 
-    <a href="https://www.ebay.com"><img alt="eBay" src="assets/ebay_logo.png" height=30 /></a>
-    <sup><sup>●</sup></sup> 
+    <sup><sup>●</sup></sup>
+    <a href="https://bitso.com"><img alt="Bitso" src="assets/bitso_logo_green.png" height=28 /></a>
+    <sup><sup>●</sup></sup>
     <a href="https://www.famaf.unc.edu.ar"><img alt="Famaf, UNC" src="assets/famaf_unc_logo.png" height=30 /></a>
 </p>
 
