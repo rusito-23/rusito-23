@@ -1,5 +1,3 @@
-# 📟 terminal_profile --login
-
 <pre>
 <span class="pl-ent">$</span> <span class="pl-c1">fetch-profile</span> --user rusito-23
 </pre>
@@ -12,8 +10,6 @@
 | **Shell** | zsh |
 
 ---
-
-### 🛠️ Core Competencies
 
 <pre>
 <span class="pl-ent">$</span> <span class="pl-c1">cat</span> skills.json
@@ -29,8 +25,6 @@
 
 ---
 
-### 📈 System Diagnostics
-
 <pre>
 <span class="pl-ent">$</span> <span class="pl-c1">run</span> diagnostic-tool --theme=terminal
 Swift         ██████████████░░░░  70%
@@ -43,8 +37,6 @@ Objective-C   █████░░░░░░░░░░░░░  25%
 
 ---
 
-### 📜 Recent Activity Log
-
 <pre>
 <span class="pl-ent">$</span> <span class="pl-c1">tail</span> -n 5 execution_log.txt
 🎧 status: making music while Xcode finishes indexing
@@ -56,8 +48,6 @@ Objective-C   █████░░░░░░░░░░░░░  25%
 </pre>
 
 ---
-
-### 📞 Establish Connection
 
 <pre>
 <span class="pl-ent">$</span> <span class="pl-c1">ssh-connect</span> --protocols=all
