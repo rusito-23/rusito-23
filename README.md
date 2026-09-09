@@ -1,16 +1,16 @@
-```console
+<pre>
 $ whoami
 igor andruskiewitsch
 
 $ tree
 .
 └── contact
-    ├── linkedin         linkedin.com/in/igor-andruskiewitsch
-    ├── email             i.andruskiewitsch23@gmail.com
-    ├── telegram          t.me/korusito
-    ├── stackoverflow     stackoverflow.com/users/8189455/rusito23
-    ├── soundcloud        soundcloud.com/igor-andruskiewitsch
-    └── cv                rusito-23.github.io/curriculum/Igor_Andruskiewitsch.pdf
+    ├── <a href="https://www.linkedin.com/in/igor-andruskiewitsch/">linkedin</a>         linkedin.com/in/igor-andruskiewitsch
+    ├── <a href="mailto:i.andruskiewitsch23@gmail.com">email</a>            i.andruskiewitsch23@gmail.com
+    ├── <a href="https://t.me/korusito">telegram</a>         t.me/korusito
+    ├── <a href="https://stackoverflow.com/users/8189455/rusito23">stackoverflow</a>    stackoverflow.com/users/8189455/rusito23
+    ├── <a href="https://soundcloud.com/igor-andruskiewitsch">soundcloud</a>       soundcloud.com/igor-andruskiewitsch
+    └── <a href="https://rusito-23.github.io/curriculum/Igor_Andruskiewitsch.pdf">cv</a>               rusito-23.github.io/curriculum/Igor_Andruskiewitsch.pdf
 
 $ man rusito
 RUSITO23(1)                   User Manual                  RUSITO23(1)
@@ -45,4 +45,4 @@ $ git log --oneline --graph life
 * 7e6f5a4 chore: graduated FAMAF, Universidad Nacional de Córdoba
 * 1a2b3c4 feat: shipped first iOS app, hooked forever
 * 0000000 init: born in Argentina
-```
+</pre>
