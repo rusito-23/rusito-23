@@ -7,7 +7,7 @@
 | 🖥️ **System Status** | |
 | :--- | :--- |
 | **User** | `rusito-23` |
-| **Role** | iOS Developer — Contractor @ Venmo (via Taller Technologies) |
+| **Role** | Software Engineer — Contractor @ Venmo (via Taller Technologies) |
 | **Education** | FAMAF, Universidad Nacional de Córdoba |
 | **Shell** | zsh |
 
@@ -21,9 +21,9 @@
 
 ```json
 {
-  "languages": ["Swift", "Objective-C", "Python"],
-  "frameworks": ["SwiftUI", "UIKit", "Combine"],
-  "tools": ["Xcode", "Git", "Fastlane"]
+  "languages": ["Swift", "JavaScript", "Objective-C", "Python"],
+  "frameworks": ["SwiftUI", "UIKit", "React Native", "Combine"],
+  "tools": ["Xcode", "Git", "Fastlane", "Docker"]
 }
 ```
 
@@ -35,6 +35,8 @@
 <span class="pl-ent">$</span> <span class="pl-c1">run</span> diagnostic-tool --theme=terminal
 Swift         ██████████████░░░░  70%
 SwiftUI       ████████████░░░░░░  60%
+JavaScript    ██████████░░░░░░░░  50%
+React Native  █████████░░░░░░░░░  45%
 Python        ████████░░░░░░░░░░  40%
 Objective-C   █████░░░░░░░░░░░░░  25%
 </pre>
@@ -49,6 +51,7 @@ Objective-C   █████░░░░░░░░░░░░░  25%
 ☕ status: over-caffeinated, mid-build
 🐢 status: waiting on the simulator to boot, again
 🧭 status: still deciding between Swift Concurrency and just one more completion handler
+🤖 status: pairs with an LLM more than it would like to admit
 📶 status: online, probably in a stand-up
 </pre>
 
