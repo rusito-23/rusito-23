@@ -1,51 +1,60 @@
-<p align="center">
+```
+ $ whoami
+ igor andruskiewitsch
 
-<!-- Badges -->
-<a href="https://www.linkedin.com/in/igor-andruskiewitsch/">
-    <img src="https://img.shields.io/badge/LinkedIn-igor--andruskiewitsch-blue?logo=Linkedin&style=flat-square"/>
-</a>
-<a href="mailto:i.andruskiewitsch23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-i.andruskiewitsch23-red?logo=Gmail&style=flat-square"/>
-</a>
-<a href="https://t.me/korusito">
-    <img src="https://img.shields.io/badge/Telegram-korusito-blue?logo=Telegram&style=flat-square"/>
-</a>
-<br>
-<a href="https://stackoverflow.com/users/8189455/rusito23">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-rusito23-orange?logo=StackOverflow&style=flat-square"/>
-</a>
-<a href="https://rusito-23.github.io/curriculum/Igor_Andruskiewitsch.pdf" >
-    <img src="https://img.shields.io/badge/CV-Curriculum-green?logo=LaTex&style=flat-square"/>
-</a>
-<a href="https://soundcloud.com/igor-andruskiewitsch" >
-    <img src="https://img.shields.io/badge/SoundCloud-igor--andruskiewitsch-important?style=flat-square&logo=soundcloud"/>
-</a>
-<a href="https://github.com/rusito-23">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=rusito-23.rusito-23" />
-</a>
+ $ cat about.txt
+ iOS Developer based in Argentina.
+ Currently contracting at Venmo (via Taller).
+ Previously: Bitso. Educated at FAMAF, Universidad Nacional de Córdoba.
+```
+
+<pre>
+contact/
+├── <a href="https://www.linkedin.com/in/igor-andruskiewitsch/">linkedin</a>        igor-andruskiewitsch
+├── <a href="mailto:i.andruskiewitsch23@gmail.com">email</a>           i.andruskiewitsch23@gmail.com
+├── <a href="https://t.me/korusito">telegram</a>        korusito
+├── <a href="https://stackoverflow.com/users/8189455/rusito23">stackoverflow</a>   rusito23
+├── <a href="https://soundcloud.com/igor-andruskiewitsch">soundcloud</a>      igor-andruskiewitsch
+└── <a href="https://rusito-23.github.io/curriculum/Igor_Andruskiewitsch.pdf">cv</a>              Igor_Andruskiewitsch.pdf
+</pre>
 
 ---
 
-<!-- Current Position and Education Header -->
-<p align="center">
-    <img alt="iOS Developer" src="assets/ios_developer.png" height=30 />
-    <sup><sup>●</sup></sup>
-    <a href="https://bitso.com"><img alt="Bitso" src="assets/bitso_logo_green.png" height=28 /></a>
-    <sup><sup>●</sup></sup>
-    <a href="https://www.famaf.unc.edu.ar"><img alt="Famaf, UNC" src="assets/famaf_unc_logo.png" height=30 /></a>
-</p>
+```
+RUSITO23(1)                   User Manual                  RUSITO23(1)
+
+NAME
+       igor andruskiewitsch -- iOS Developer
+
+SYNOPSIS
+       igor [--coffee] [--swift] [--music]
+
+DESCRIPTION
+       Ships iOS apps for a living. Currently on contract at Venmo,
+       through Taller. Makes music on the side, mostly when the
+       simulator is taking too long to build.
+
+STACK
+       Swift         ██████████████░░░░  70%
+       SwiftUI       ████████████░░░░░░  60%
+       Python        ████████░░░░░░░░░░  40%
+       Objective-C   █████░░░░░░░░░░░░░  25%
+
+SEE ALSO
+       linkedin(1), soundcloud(1), stackoverflow(1)
+
+BUGS
+       None known. All reported issues were later reclassified
+       as features.
+```
 
 ---
 
-<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rusito-23&show_icons=true&theme=onedark&line_height=28.5" />
-</a>
+```
+$ git log --oneline --graph life
 
-<!-- GitHub Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusito-23&hide=Jupyter%20Notebook&langs_count=10&layout=compact&theme=onedark" />
-</a>
-
-</p>
-
+* 9f8e7d6 (HEAD -> main) feat: joined Venmo as a contractor via Taller
+* 7e6f5a4 chore: graduated FAMAF, Universidad Nacional de Córdoba
+* 1a2b3c4 feat: shipped first iOS app, hooked forever
+* 0000000 init: born in Argentina
+```
