@@ -1,10 +1,10 @@
 ```bash
 $ whoami
 igor andruskiewitsch
-
-$ tree
 ```
+
 <pre>
+$ tree
 .
 └── contact
     ├── <a href="https://www.linkedin.com/in/igor-andruskiewitsch/">linkedin</a>         linkedin.com/in/igor-andruskiewitsch
@@ -41,7 +41,9 @@ $ man rusito
 
 # BUGS
       "None known. All reported issues were later reclassified as features."
+```
 
+```bash
 $ git log --oneline --graph life
 * 9f8e7d6 (HEAD -> main) "feat: joined Venmo as a contractor via Taller Technologies"
 * 7e6f5a4 "chore: graduated FAMAF, Universidad Nacional de Córdoba"
